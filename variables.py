@@ -16,12 +16,12 @@ print (b)
 c = True #true
 
 #string
-d = 'This is a string'
+d = 'This is a string'pull
 e = "This is also a string"
 f = """
 This is a multi line string
 """
 
 # Today's weather is nice
-d = 
+d = weather is good
 
