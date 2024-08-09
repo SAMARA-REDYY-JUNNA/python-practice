@@ -24,4 +24,5 @@ This is a multi line string
 
 # Today's weather is nice
 d = weather is good
+print (d)
 
